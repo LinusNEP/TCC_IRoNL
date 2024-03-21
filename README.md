@@ -6,7 +6,7 @@
   </p>
   
 <p align="center">
-  <h3 align="center"> | <a href="https://doi.org">Paper</a> | <a href="https://arxiv.org">ArXiv</a> | <a href="https://osf.io/">Data & Videos</a> | <a href="https://doi.org">DOI</a> | <a href="https://creativecommons.org/licenses/by/4.0/">License</a> | </h3>
+  <h3 align="center"> | <a href="https://human-llm-interaction.github.io/workshop/hri24/papers/hllmi24_paper_5.pdf">Paper</a> | <a href="https://arxiv.org/abs/2403.12273">ArXiv</a> | <a href="https://creativecommons.org/licenses/by/4.0/">License</a> | </h3>
   <div align="center"></div>
 </p>
 
@@ -16,20 +16,20 @@ The Multimodal TCC-IRoNL extends TCC-IRoNL to enable humans to interact naturall
 ## Citation
 If you use this work in your research, please cite it using the following BibTeX entry:
 ```bibtex
-@inproceedings{10.xxxxxxxxxxxx,
-author = {Linus, Nwankwo and Elmar, Rueckert},
-title = {Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Models},
-year = {2024},
-isbn = {979-8-xxxxxxxxxxxxxx},
-publisher = {xxxxxxxxxxxxx},
-address = {New York, NY, USA},
-url = {https://doi.orgxxxxxxxxxxxxxx},
-doi = {10.xxxxxxxxxxxxxxx},
-booktitle = {Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
-numpages = {3},
-keywords = {Human-robot interaction, LLMs, VLMs, ChatGPT, ROS, autonomous robots, natural language interaction},
-location = {Boulder, CO, USA},
-series = {HRI '24}
+@misc{nwankwo2024multimodal,
+
+   title={Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models}, 
+
+   author={Linus Nwankwo and Elmar Rueckert},
+
+   year={2024},
+
+   eprint={2403.12273},
+
+   archivePrefix={arXiv},
+
+   primaryClass={cs.RO}
+
 }
 ```
 
