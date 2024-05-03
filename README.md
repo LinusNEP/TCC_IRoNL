@@ -2,7 +2,7 @@
 
   <h2 align="center">Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models</h2>
   <p align="center">
-      Team/Contributors:  <a href="https://cps.unileoben.ac.at/m-sc-linus-nwankwo/">Nwankwo Linus</a> | <a href="https://cps.unileoben.ac.at/prof-elmar-rueckert/">Elmar Rueckert</a>
+      Team/Contributors:  <a href="https://cps.unileoben.ac.at/m-sc-linus/">Nwankwo Linus</a> | <a href="https://cps.unileoben.ac.at/prof-elmar/">Elmar Rueckert</a>
   </p>
   
 <p align="center">
