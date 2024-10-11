@@ -26,12 +26,5 @@ If you use this work in your research, please cite it using the following BibTeX
 }
 ```
 
-## Multimodal TCC-IRoNL installation
-
-**To be updated!**
-
-## Run Multimodal TCC-IRoNL Example Demos
-
-**To be updated!**
 
 
